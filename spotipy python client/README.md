@@ -1,1 +1,2 @@
-# BCF_Hacathon_Workshop_On_API-Cloud-Services
+## Link to the python SDK of spotify
+https://github.com/plamere/spotipy
